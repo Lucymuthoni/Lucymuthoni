@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Lucymuthoni
+- 👀 I’m interested in learning programming, with the long-term objective of getting into blockchain technology
+- 🌱 I’m currently learning introduction to C++
+- 💞️ I’m looking to collaborate on Learning how to program, especially with beginners who might be struggling as much as I am
+- 📫 How to reach me lucymuthoni2003@gmail.com
